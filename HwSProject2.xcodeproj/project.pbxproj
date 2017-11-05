@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					0251E54A1F1446C600F8A064 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = XF4U8W5J97;
 						ProvisioningStyle = Automatic;
 					};
 					0251E5611F1446C600F8A064 = {
@@ -418,7 +419,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XF4U8W5J97;
 				INFOPLIST_FILE = HwSProject2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ssvendse.HwSProject2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,7 +433,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XF4U8W5J97;
 				INFOPLIST_FILE = HwSProject2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ssvendse.HwSProject2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -511,6 +516,7 @@
 				0251E5781F1446C600F8A064 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0251E5791F1446C600F8A064 /* Build configuration list for PBXNativeTarget "HwSProject2Tests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				0251E57B1F1446C600F8A064 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0251E57C1F1446C600F8A064 /* Build configuration list for PBXNativeTarget "HwSProject2UITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +534,7 @@
 				0251E57E1F1446C600F8A064 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
